@@ -14,3 +14,5 @@ Field of study that gives the computer the ability to learn without explicitly p
 **"Right answer"** is given
 - Regression: predict continous valued output
 - classification: Discret valued output(1 or 0)
+
+support vector machine : infinite no of features or attribuites  
