@@ -10,5 +10,7 @@ Field of study that gives the computer the ability to learn without explicitly p
 - Reinforcement Learning
 - Recommender system
 
-
-
+### supervised Learning:
+**"Right answer"** is given
+- Regression: predict continous valued output
+- classification: Discret valued output(1 or 0)
