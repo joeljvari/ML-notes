@@ -15,4 +15,10 @@ Field of study that gives the computer the ability to learn without explicitly p
 - Regression: predict continous valued output
 - classification: Discret valued output(1 or 0)
 
-support vector machine : infinite no of features or attribuites  
+**Support vector machine : It has infinite no of features or attribuites**  
+
+![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/breast%20cancer.PNG "fig-1 :Classification Problem Example")
+
+![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/house%20price.PNG "fig-1 :Regression Problem Example")
+
+
