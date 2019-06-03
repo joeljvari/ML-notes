@@ -43,7 +43,10 @@ L2 Loss for a given example is also called squared error
 = Square of the difference between prediction and label
 = (observation - prediction)2
 = (y - y')2
+![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/house%20price%20vs%20sq%20foot.PNG "fig-3")
+
 **Defining L2 Loss on a Data Set:**
 when we are training our model we care about minimising loss across the entire datasets
-            
+![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/Defining%20L2%20Loss%20on%20a%20Data%20Set.PNG"fig-4")
+
             
