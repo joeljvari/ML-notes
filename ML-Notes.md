@@ -81,4 +81,8 @@ On every step, get a new random sample
     - Stochastic Gradient Descent: one example at a time
     - Mini-Batch Gradient Descent: batches of 10-1000
 
+Reducing Loss: An Iterative Approach:
 
+ gradient vector has both a direction and a magnitude. Gradient descent algorithms multiply the gradient by a scalar known as the learning rate (also sometimes called step size) to determine the next point
+ 
+Optimising the learning rates 
