@@ -51,7 +51,7 @@ when we are training our model we care about minimising loss across the entire d
 ![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/Defining%20L2%20Loss%20on%20a%20Data%20Set.PNG "fig-4")
 
 **Mean square error (MSE) is the average squared loss per example over the whole dataset**
-
+![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/MSE.PNG "fig-5")
 
 ### **Training :**
  Training a model simply means learning (determining) good values for all the weights and the bias from labeled examples.            
