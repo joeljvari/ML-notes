@@ -11,11 +11,12 @@ Field of study that gives the computer the ability to learn without explicitly p
 - Recommender system
 
 ### supervised Learning:
+In supervised machine learning, we are learning to create models that combine inputs, to produce useful predictions even on previously unseen data.
 **"Right answer"** is given
 - Regression: predict continous valued output
 - classification: Discret valued output(1 or 0)
 
-**Support vector machine : It has infinite no of features or attribuites**  
+**Support Vector Machine : It has infinite no of features or attribuites**  
 
 ![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/breast%20cancer.PNG "fig-1 :Classification Problem Example")
 
