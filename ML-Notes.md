@@ -46,7 +46,16 @@ L2 Loss for a given example is also called squared error
 ![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/house%20price%20vs%20sq%20foot.PNG "fig-3")
 
 **Defining L2 Loss on a Data Set:**
+ loss function called squared loss (also known as L2 loss)
 when we are training our model we care about minimising loss across the entire datasets
 ![alt text](https://raw.githubusercontent.com/joeljvari/ML-notes/master/Defining%20L2%20Loss%20on%20a%20Data%20Set.PNG "fig-4")
 
-            
+**Mean square error (MSE) is the average squared loss per example over the whole dataset**
+
+
+### **Training :**
+ Training a model simply means learning (determining) good values for all the weights and the bias from labeled examples.            
+ In supervised learning, a machine learning algorithm builds a model by examining many examples and attempting to find a model that minimizes loss; this process is called **empirical risk minimization.**
+ 
+ 
+ 
